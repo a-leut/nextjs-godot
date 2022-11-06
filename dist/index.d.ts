@@ -1,7 +1,6 @@
 /**
  * @function ReactGodot
  */
-import "./styles.css";
 import { FunctionComponent } from "react";
 export declare type ReactGodotProps = {
     script: EngineLoaderDescription;
